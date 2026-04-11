@@ -25,5 +25,5 @@ coverage/
 .DS_Store
 Thumbs.db
 
-cypress/screenshots/
-cypress/videos/
+frontend/cypress/screenshots/
+frontend/cypress/videos/
